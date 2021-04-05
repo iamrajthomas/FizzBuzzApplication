@@ -1,0 +1,11 @@
+C:\Users\c-rajesh.thomas\source\repos\FizzBuzzApplication\FizzBuzzApplication\bin\Debug\netcoreapp2.1\FizzBuzzApplication.deps.json
+C:\Users\c-rajesh.thomas\source\repos\FizzBuzzApplication\FizzBuzzApplication\bin\Debug\netcoreapp2.1\FizzBuzzApplication.runtimeconfig.json
+C:\Users\c-rajesh.thomas\source\repos\FizzBuzzApplication\FizzBuzzApplication\bin\Debug\netcoreapp2.1\FizzBuzzApplication.runtimeconfig.dev.json
+C:\Users\c-rajesh.thomas\source\repos\FizzBuzzApplication\FizzBuzzApplication\bin\Debug\netcoreapp2.1\FizzBuzzApplication.dll
+C:\Users\c-rajesh.thomas\source\repos\FizzBuzzApplication\FizzBuzzApplication\bin\Debug\netcoreapp2.1\FizzBuzzApplication.pdb
+C:\Users\c-rajesh.thomas\source\repos\FizzBuzzApplication\FizzBuzzApplication\obj\Debug\netcoreapp2.1\FizzBuzzApplication.csproj.CoreCompileInputs.cache
+C:\Users\c-rajesh.thomas\source\repos\FizzBuzzApplication\FizzBuzzApplication\obj\Debug\netcoreapp2.1\FizzBuzzApplication.AssemblyInfoInputs.cache
+C:\Users\c-rajesh.thomas\source\repos\FizzBuzzApplication\FizzBuzzApplication\obj\Debug\netcoreapp2.1\FizzBuzzApplication.AssemblyInfo.cs
+C:\Users\c-rajesh.thomas\source\repos\FizzBuzzApplication\FizzBuzzApplication\obj\Debug\netcoreapp2.1\FizzBuzzApplication.dll
+C:\Users\c-rajesh.thomas\source\repos\FizzBuzzApplication\FizzBuzzApplication\obj\Debug\netcoreapp2.1\FizzBuzzApplication.pdb
+C:\Users\c-rajesh.thomas\source\repos\FizzBuzzApplication\FizzBuzzApplication\obj\Debug\netcoreapp2.1\FizzBuzzApplication.csprojAssemblyReference.cache
